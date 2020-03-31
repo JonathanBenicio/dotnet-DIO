@@ -1,0 +1,13 @@
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\bin\Debug\netcoreapp3.1\introducao.exe
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\bin\Debug\netcoreapp3.1\introducao.deps.json
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\bin\Debug\netcoreapp3.1\introducao.runtimeconfig.json
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\bin\Debug\netcoreapp3.1\introducao.runtimeconfig.dev.json
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\bin\Debug\netcoreapp3.1\introducao.dll
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\bin\Debug\netcoreapp3.1\introducao.pdb
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\obj\Debug\netcoreapp3.1\introducao.csprojAssemblyReference.cache
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\obj\Debug\netcoreapp3.1\introducao.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\obj\Debug\netcoreapp3.1\introducao.AssemblyInfoInputs.cache
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\obj\Debug\netcoreapp3.1\introducao.AssemblyInfo.cs
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\obj\Debug\netcoreapp3.1\introducao.dll
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\obj\Debug\netcoreapp3.1\introducao.pdb
+E:\Documents\GitHub\DIO\C#\Introducao\introducao\obj\Debug\netcoreapp3.1\introducao.genruntimeconfig.cache
